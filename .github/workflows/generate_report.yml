@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run Report Script
-        run: python generate_report.py
+        run: python opensource.py
 
       - name: Commit and Push Changes
         run: |
