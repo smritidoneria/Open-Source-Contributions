@@ -3,6 +3,8 @@
 ## RocketChat/EmbeddedChat
 
 ### Pull Requests:
+- [Fix: Thread Message Deletion ](https://github.com/RocketChat/EmbeddedChat/pull/969)
+- [Fix: deletion of message get simultaneously deleted from the starred modal.](https://github.com/RocketChat/EmbeddedChat/pull/966)
 - [Fix Loading of Older Thread Messages in Thread Message Modal](https://github.com/RocketChat/EmbeddedChat/pull/896)
 - [chore/Fix: Ensure members list updates simultaneously when a new member is added](https://github.com/RocketChat/EmbeddedChat/pull/865)
 - [Fix: Ensure deleted messages are removed from starred and pinned message sidebars](https://github.com/RocketChat/EmbeddedChat/pull/862)
@@ -17,6 +19,8 @@
 - [fixed the disability issue while selecting emojis](https://github.com/RocketChat/EmbeddedChat/pull/609)
 
 ### Issues:
+- [Thread message deletion in the chat interface do not delete the message of the respective thread](https://github.com/RocketChat/EmbeddedChat/issues/967)
+- [Deleted starred Message in the main Chat interface  do appears in starred modal](https://github.com/RocketChat/EmbeddedChat/issues/965)
 - [thread messages rendering is not appropriate](https://github.com/RocketChat/EmbeddedChat/issues/958)
 - [Older thread messages are not being loaded in the thread message modal](https://github.com/RocketChat/EmbeddedChat/issues/895)
 - [Arrow Redirection in Pinned Message and starred Message  Modal Fails for Non-Visible Messages](https://github.com/RocketChat/EmbeddedChat/issues/871)
@@ -43,9 +47,6 @@
 - [fix: restart functionality](https://github.com/formbricks/formbricks/pull/2885)
 - [feat: added createdBy column ](https://github.com/formbricks/formbricks/pull/2864)
 - [feat: add ability to copy surveys between different environments of different products](https://github.com/formbricks/formbricks/pull/2832)
-
-### Issues:
-- [[BUG] Inappropiate functionality of preview under configuration](https://github.com/formbricks/formbricks/issues/2882)
 
 ## RocketChat/Rocket.Chat
 
@@ -85,11 +86,4 @@
 ### Issues:
 - [Incorrect Validation of Username and FullName](https://github.com/classroomio/classroomio/issues/397)
 - [Dropdown doesn't align properly](https://github.com/classroomio/classroomio/issues/392)
-- [Incorrect Email Validation](https://github.com/classroomio/classroomio/issues/389)
-
-## ecellvit/Esummit24
-
-### Pull Requests:
-- [del-fox](https://github.com/ecellvit/Esummit24/pull/30)
-- [delete team](https://github.com/ecellvit/Esummit24/pull/29)
 
