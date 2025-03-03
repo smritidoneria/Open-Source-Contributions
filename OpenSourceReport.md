@@ -1,5 +1,15 @@
 # Open Source Contributions
 
+## RocketChat/Apps.QuickReplies
+
+### Pull Requests:
+- [Fix:  Ensure All Replies Are Displayed in /qs Command](https://github.com/RocketChat/Apps.QuickReplies/pull/48)
+
+### Issues:
+- [[Feat] Favorite Replies](https://github.com/RocketChat/Apps.QuickReplies/issues/47)
+- [[Bug] Quick Reply Selection Not Showing All Options](https://github.com/RocketChat/Apps.QuickReplies/issues/46)
+- [[Bug] : Having Trouble Setting Up Quick Replies App Locally](https://github.com/RocketChat/Apps.QuickReplies/issues/41)
+
 ## RocketChat/EmbeddedChat
 
 ### Pull Requests:
@@ -46,7 +56,6 @@
 - [feat: add badge component to Storybook](https://github.com/formbricks/formbricks/pull/2899)
 - [fix: restart functionality](https://github.com/formbricks/formbricks/pull/2885)
 - [feat: added createdBy column ](https://github.com/formbricks/formbricks/pull/2864)
-- [feat: add ability to copy surveys between different environments of different products](https://github.com/formbricks/formbricks/pull/2832)
 
 ## RocketChat/Rocket.Chat
 
@@ -60,8 +69,6 @@
 - [Non admin users unable to pin message in direct messages](https://github.com/RocketChat/Rocket.Chat/issues/33302)
 - [Incorrect Email Validation on various pages](https://github.com/RocketChat/Rocket.Chat/issues/33354)
 - [Incorrect Email Validation and  Persistent display of error message on message selection in MailExportForm](https://github.com/RocketChat/Rocket.Chat/issues/32974)
-- [Hindi Language Translation Backlog in UI](https://github.com/RocketChat/Rocket.Chat/issues/32786)
-- [Search functionality of members ](https://github.com/RocketChat/Rocket.Chat/issues/32784)
 
 ## anjy7/GSoC-Community-Hub
 
@@ -85,5 +92,4 @@
 
 ### Issues:
 - [Incorrect Validation of Username and FullName](https://github.com/classroomio/classroomio/issues/397)
-- [Dropdown doesn't align properly](https://github.com/classroomio/classroomio/issues/392)
 
