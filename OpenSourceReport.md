@@ -1,18 +1,9 @@
 # Open Source Contributions
 
-## RocketChat/Apps.QuickReplies
-
-### Pull Requests:
-- [Fix:  Ensure All Replies Are Displayed in /qs Command](https://github.com/RocketChat/Apps.QuickReplies/pull/48)
-
-### Issues:
-- [[Feat] Favorite Replies](https://github.com/RocketChat/Apps.QuickReplies/issues/47)
-- [[Bug] Quick Reply Selection Not Showing All Options](https://github.com/RocketChat/Apps.QuickReplies/issues/46)
-- [[Bug] : Having Trouble Setting Up Quick Replies App Locally](https://github.com/RocketChat/Apps.QuickReplies/issues/41)
-
 ## RocketChat/EmbeddedChat
 
 ### Pull Requests:
+- [Added Filtering Dropdown in Members  ](https://github.com/RocketChat/EmbeddedChat/pull/999)
 - [Fix: Thread Message Deletion ](https://github.com/RocketChat/EmbeddedChat/pull/969)
 - [Fix: deletion of message get simultaneously deleted from the starred modal.](https://github.com/RocketChat/EmbeddedChat/pull/966)
 - [Fix Loading of Older Thread Messages in Thread Message Modal](https://github.com/RocketChat/EmbeddedChat/pull/896)
@@ -29,6 +20,7 @@
 - [fixed the disability issue while selecting emojis](https://github.com/RocketChat/EmbeddedChat/pull/609)
 
 ### Issues:
+- [adding status type filtering dropdown in members sidebar](https://github.com/RocketChat/EmbeddedChat/issues/998)
 - [Thread message deletion in the chat interface do not delete the message of the respective thread](https://github.com/RocketChat/EmbeddedChat/issues/967)
 - [Deleted starred Message in the main Chat interface  do appears in starred modal](https://github.com/RocketChat/EmbeddedChat/issues/965)
 - [thread messages rendering is not appropriate](https://github.com/RocketChat/EmbeddedChat/issues/958)
@@ -49,6 +41,16 @@
 - [Markdown rendering issue in report message](https://github.com/RocketChat/EmbeddedChat/issues/610)
 - [Emoji selection disables the send message button](https://github.com/RocketChat/EmbeddedChat/issues/608)
 
+## RocketChat/Apps.QuickReplies
+
+### Pull Requests:
+- [Fix:  Ensure All Replies Are Displayed in /qs Command](https://github.com/RocketChat/Apps.QuickReplies/pull/48)
+
+### Issues:
+- [[Feat] Favorite Replies](https://github.com/RocketChat/Apps.QuickReplies/issues/47)
+- [[Bug] Quick Reply Selection Not Showing All Options](https://github.com/RocketChat/Apps.QuickReplies/issues/46)
+- [[Bug] : Having Trouble Setting Up Quick Replies App Locally](https://github.com/RocketChat/Apps.QuickReplies/issues/41)
+
 ## formbricks/formbricks
 
 ### Pull Requests:
@@ -65,6 +67,7 @@
 - [fix: Correct email validation and error message display in MailExportForm](https://github.com/RocketChat/Rocket.Chat/pull/32975)
 
 ### Issues:
+- [Mentions not updated simultaneously in the sidebar when a new member is added](https://github.com/RocketChat/Rocket.Chat/issues/35392)
 - [OTR Starred Messaging issue](https://github.com/RocketChat/Rocket.Chat/issues/33331)
 - [Non admin users unable to pin message in direct messages](https://github.com/RocketChat/Rocket.Chat/issues/33302)
 - [Incorrect Email Validation on various pages](https://github.com/RocketChat/Rocket.Chat/issues/33354)
@@ -88,8 +91,4 @@
 - [fix: lesson widget alignment on page](https://github.com/classroomio/classroomio/pull/396)
 - [fix: dropdown alignment](https://github.com/classroomio/classroomio/pull/393)
 - [feat: Save functionality using enter](https://github.com/classroomio/classroomio/pull/383)
-- [fix: exercise points must accept only numbers](https://github.com/classroomio/classroomio/pull/381)
-
-### Issues:
-- [Incorrect Validation of Username and FullName](https://github.com/classroomio/classroomio/issues/397)
 
